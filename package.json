@@ -1,0 +1,10 @@
+{ "name": "azure-text-analytics-on-node",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
